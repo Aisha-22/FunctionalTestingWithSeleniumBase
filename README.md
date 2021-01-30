@@ -37,7 +37,8 @@ Return type for findElement is WebElements = to return a list is List<WebElement
 
 **Implicit and Explicit 
 >Is based on the search results
->When your code/test executes faster than your browser, test works with elements that are not there.
+>When your code/test executes faster than your browser, test works with elements that are 
+not there.
 
 *Implicit Wait Machine: 
 > ImplicitWait is applied Globally - in a global level, it's telling the program to Waiting for a number of seconds before throwing exception.
